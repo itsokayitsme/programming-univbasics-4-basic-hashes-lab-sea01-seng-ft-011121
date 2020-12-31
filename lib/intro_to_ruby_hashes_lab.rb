@@ -12,5 +12,5 @@ end
 
 
 def id_hash_generator(number)
-  return newHash = {:id => 451} 
+  return newHash = {:id => 5}.to eq(5)
 end
