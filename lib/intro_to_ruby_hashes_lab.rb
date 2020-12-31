@@ -12,5 +12,5 @@ end
 
 
 def id_hash_generator(number)
- hash = {:id => 532345}
+  return newHash = {:id => 1}
 end
